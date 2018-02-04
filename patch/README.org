@@ -1,0 +1,5 @@
+* st patches
+
+** sixel
+
+[[https://gist.githubusercontent.com/saitoha/70e0fdf22e3e8f63ce937c7f7da71809/raw/10fcfc32be3b9e674d919082809f24ec749886a6/suckless-st-sixel.diff][sixel patch]]
